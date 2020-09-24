@@ -8,7 +8,7 @@
 <tr>
 <th><img src="imagenes/img1.png"></th>
 <th><img src="imagenes/img2.jpg"></th>
-<th><img src="imagenes/img3.png" width="50" heigth="40"></th>
+<th><img src="imagenes/img3.png" width="200" heigth="180"></th>
 <tr>
 </table>
 
